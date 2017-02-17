@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormSolution", "WinFormSolution\WinFormSolution.csproj", "{AD62CDCB-7276-4234-9CBC-6DC2D5F41124}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCalculator02", "SimpleCalculator02\SimpleCalculator02.csproj", "{803CAD5B-7DDB-4B9B-ADF9-9B1764C39923}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD62CDCB-7276-4234-9CBC-6DC2D5F41124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD62CDCB-7276-4234-9CBC-6DC2D5F41124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD62CDCB-7276-4234-9CBC-6DC2D5F41124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD62CDCB-7276-4234-9CBC-6DC2D5F41124}.Release|Any CPU.Build.0 = Release|Any CPU
+		{803CAD5B-7DDB-4B9B-ADF9-9B1764C39923}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{803CAD5B-7DDB-4B9B-ADF9-9B1764C39923}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{803CAD5B-7DDB-4B9B-ADF9-9B1764C39923}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{803CAD5B-7DDB-4B9B-ADF9-9B1764C39923}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
